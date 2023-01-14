@@ -1053,11 +1053,11 @@ static_prefix:
 
   anchor: https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.3.1/
 
-  github_markdown: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0
+  github_markdown: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/
 
   jquery: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/
 
-  bootstrap: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.3
+  bootstrap: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.3/
 
   prismjs: https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/
 
@@ -1069,7 +1069,7 @@ static_prefix:
 
   nprogress: https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/
 
-  mathjax: https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2
+  mathjax: https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/
 
   katex: https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.4/
 
