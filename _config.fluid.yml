@@ -1055,7 +1055,7 @@ static_prefix:
 
   github_markdown: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0
 
-  jquery: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/
+  jquery: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/
 
   bootstrap: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.3
 
