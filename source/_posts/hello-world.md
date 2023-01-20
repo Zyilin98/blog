@@ -7,8 +7,12 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ### Create a new post
 
-``` bash
+``` yaml
 $ hexo new "My New Post"
+
+pretty_urls:
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
