@@ -1,0 +1,46 @@
+static_prefix:
+  # 内部静态
+  # Internal static
+  internal_js: /js
+  internal_css: /css
+  internal_img: /img
+
+  anchor: https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.3.1/
+
+  github_markdown: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0
+
+  jquery: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/
+
+  bootstrap: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.3
+
+  prismjs: https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/
+
+  tocbot: https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.20.0/
+
+  typed: https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/
+
+  fancybox: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/
+
+  nprogress: https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/
+
+  mathjax: https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2
+
+  katex: https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.4/
+
+  busuanzi: https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/
+
+  clipboard: https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/
+
+  mermaid: https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.3.0/
+
+  valine: https://cdnjs.cloudflare.com/ajax/libs/valine/1.5.1/
+
+  waline: https://cdnjs.cloudflare.com/ajax/libs/waline/2.14.7/
+
+  gitalk: https://cdnjs.cloudflare.com/ajax/libs/gitalk/1.8.0/
+
+  disqusjs: https://cdnjs.cloudflare.com/ajax/libs/disqusjs/3.0.2/
+
+  twikoo: https://cdnjs.cloudflare.com/ajax/libs/twikoo/1.6.8/
+
+  hint: https://cdnjs.cloudflare.com/ajax/libs/hint.css/2.7.0/
