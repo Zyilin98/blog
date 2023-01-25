@@ -1,0 +1,10 @@
+name = "blog"
+type = "webpack"
+route = 'blog.zyilin98.cc/*'
+zone_id = '7001ae8962b3c5b9be85a6e67b132374'
+workers_dev = true
+account_id = "3460ac9a438de772ee96f7bc5f986e61"
+compatibility_date = "2023-01-24"
+[site]
+bucket = "./public"
+entry-point = "workers-site"
