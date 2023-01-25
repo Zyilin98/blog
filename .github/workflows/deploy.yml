@@ -9,7 +9,7 @@ jobs:
     strategy:
       matrix:
         node-version:
-          - 12.x
+          - 18.x
     steps:
     - name: Checkout  # 这里 Sukka 的博文上缩进错了, 导致不能运行成功, 我修改了这里的缩进
       uses: actions/checkout@v2
