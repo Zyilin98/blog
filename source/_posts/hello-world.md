@@ -1,42 +1,13 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
-
-### Create a new post
-
-``` yaml
-$ hexo new "My New Post"
-
-pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+### 混沌的简述
+*下面文字比较意识流，较口语化*
+我的blog经过多次重写，更换架构。到今天（2023/1/26）算是再一次基本重写完了。
+第一次在2020年，当时的架构是Typecho,托管~~白嫖~~在GCP（Google Compute Platform）。嫖了一段时间后因为学业问题就疏于打理，到期了也没咋管。
+后来到2021年7月，再次闲起来就想着把blog重新搭起来，当时还是继续用Typecho，部署在腾讯云香港。差不多来来回回用了半年多吧，主要是觉得typecho少了点什么，就想准备换个架构。但是我总是没那个心思重写。
+到了22年的8月吧，痛定思痛决定再换个架构，当时就有同学建议我试试hexo，因为我自己没有啥写前端的经验，尝试了半天最后还是放弃了。没事的时候翻GitHub发现个工具：[Halo](https://github.com/halo-dev/halo) 又花了几天时间迁移到halo。当时就觉得应该没啥问题了，也许能用很久了吧。
+2022年的12月份，我在准备考英语四级就将近俩月没维护blog，等我考完想起来的时候。ssl证书过期，halo又发布了新版本，并且老版本还不能无损升级过去。于是我又痛定思痛决定再次重写。
+到23年，我觉得要尝试尝试hexo这种静态页面的blog，顺带借写blog机会学习一下前端知识，所以就有了现在的版本
+接下来我就慢慢的写和维护blog，至于写多少这个就随缘了。
+马上就大三了，可能就没那个时间写blog，但是我有机会还是会填坑的，毕竟我还是有很多文章要写的。(这个Flag就立在这了)
