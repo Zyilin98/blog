@@ -489,7 +489,7 @@ index:
 
       # 请求地址
       # Request url
-      url: "https://v1.hitokoto.cn/?c=a&c=c&c=d&c=i&c=k"
+      url: "https://v1.hitokoto.cn/?c=a&c=c&c=d&c=i&c=k&c=h&c=e"
 
       # 请求方法
       # Request method
